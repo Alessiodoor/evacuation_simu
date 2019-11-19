@@ -1,0 +1,11 @@
+NP: 19
+Dt: 2.5
+strategy: sequential_frozen
+Movimento Diagonale: False
+Prof: 18
+
+flow_rate_1: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 2, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1]
+
+[105.0]
+mean: 105.0
+std: 0.0
